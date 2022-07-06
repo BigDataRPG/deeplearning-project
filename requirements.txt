@@ -69,7 +69,7 @@ kiwisolver==1.0.1
 lesscpy==0.13.0
 line-notify==0.1.4
 locket==0.2.0
-lxml==4.2.5
+lxml==4.9.1
 Markdown==3.0.1
 MarkupSafe==1.0
 matplotlib==3.0.0
